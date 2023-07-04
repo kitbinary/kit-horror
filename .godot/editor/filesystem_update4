@@ -1,3 +1,4 @@
-res://Scenes/Character.tscn
 res://Scenes/TestScene.tscn
+res://Scenes/Character.tscn
+res://Scripts/Enemy.gd
 res://Scripts/Character.gd
