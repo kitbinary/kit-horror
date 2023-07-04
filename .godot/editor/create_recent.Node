@@ -1,0 +1,8 @@
+OmniLight3D
+CollisionShape3D
+RayCast3D
+CSGBox3D
+AnimationPlayer
+Camera3D
+MeshInstance3D
+CharacterBody3D
